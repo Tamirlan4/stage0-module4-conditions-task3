@@ -35,15 +35,15 @@ public class Divider {
     public void isDividableBy5And11(int number) {
     }
 }
-6. Alphabetic characters.
-Implement the program that will consume a character from method argument which will be from english alphabet and print vowel if it is "Vowel" or consonant if it's "Consonant". And If it is not from eng alphabet than print "wrong alphabet!"
+6.  the program that will consume a character from method argument which will be from english alphabet and print vowel if it is "Vowel" or consonant if it's "Consonant". And If it is not from eng alphabet than print "wrong alphabet!"
 
 public class AlphabeticCharacters {
     public void vowelDeterminer(char character) {
     }
 }
 7. Days in month printer.
-Implement the program that will consume a number month from method argument and print amount of days in that month, if number is not a month number -> print: "wrong number!":
+Implement the program thaAlphabetic characters.
+   Implementt will consume a number month from method argument and print amount of days in that month, if number is not a month number -> print: "wrong number!":
 
 public class DaysInMonthPrinter {
     public void amountOfDays(int month) {
